@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Montserrat&family=Noto+Sans:wght@300&family=Playpen+Sans:wght@200&family=Raleway&family=Ubuntu:wght@300&display=swap");
+
+* {
+  font-family: "Raleway", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbardesign {
+  background-color: #72c1f2;
+  font-family: "Raleway", sans-serif;
+  size: 24px;
+}
+
+.buttonbag {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  width: 45px;
+  height: 45px;
+}

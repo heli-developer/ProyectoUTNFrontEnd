@@ -1,0 +1,12 @@
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+  }
+  
+  .col-md-3 {
+    margin: 10px;
+  }
+  
